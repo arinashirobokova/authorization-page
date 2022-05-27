@@ -1,0 +1,14 @@
+.form_group {
+	position: relative;
+	margin-bottom: 32px;
+	font-family: inherit;
+	border: none;
+}
+.form_group input {
+	width: 100%;
+	border: none;
+	background-color: #F0FFFF;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 5px;
+}

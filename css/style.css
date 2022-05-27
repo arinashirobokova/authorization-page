@@ -1,0 +1,22 @@
+body {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	height:100vh;
+}
+form {
+	width: 500px;
+	padding: 40px;
+    border: 5px;
+	border-radius: 10px;
+	box-shadow: 0 4px 16px #ccc;
+	font-family: inherit;
+	letter-spacing: 1px;
+}
+.form_title {
+	font-family: monospace;
+	letter-spacing: 1px;
+	text-align: center;
+	margin: 0 0 32px 0;
+	color: #2F4F4F
+}
